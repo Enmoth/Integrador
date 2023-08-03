@@ -1,7 +1,6 @@
 # Web
 
-#### Descrição de diretório .git
-
+#### Descrição de diretório .gits
 
 > Config: Contém as configurações específicas do repositório, como o nome do usuário, endereço de e-mail, etc.
 
