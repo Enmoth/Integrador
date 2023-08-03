@@ -2,6 +2,7 @@
 
 #### Descrição de diretório .git
 
+
 > Config: Contém as configurações específicas do repositório, como o nome do usuário, endereço de e-mail, etc.
 
 > Description: Esse arquivo é usado pelo servidor Git para fornecer uma descrição do repositório. É geralmente usado em servidores Git públicos.
