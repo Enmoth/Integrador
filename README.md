@@ -1,5 +1,7 @@
 # Web
 
+# Respositório remoto
+
 #### Descrição de diretório .gits
 
 > Config: Contém as configurações específicas do repositório, como o nome do usuário, endereço de e-mail, etc.
@@ -21,6 +23,3 @@
 > Packed-refs: Este arquivo contém referências de commits "empacotadas", que são referências de commits que foram compactadas para otimização.
 
 > Refs: Contém todas as referências do repositório, como branches, tags e HEAD. Essas referências apontam para diferentes commits do histórico do repositório.
-
-> Desafio: Removi "git rm --cached .gitignore" e adicionei "*.gitignore" no arquivo.
-No entanto, não é recomendado remover o arquivo .gitignore do repositório remoto porque ele define quais arquivos devem ser ignorados durante o versionamento. Sua exclusão pode causar problemas como inclusão de arquivos desnecessários, conflitos e exposição de dados sensíveis. Mantê-lo garante consistência, segurança e melhor colaboração na equipe.
